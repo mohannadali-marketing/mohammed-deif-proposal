@@ -1,5 +1,4 @@
-import React,{useMemo,useState}from"react";import{AnimatePresence,motion}from"framer-motion";import{ArrowLeft,ArrowRight,ArrowUpRight,CheckCircle2,XCircle,Layers3,Radar,Target,Sparkles,Workflow as WorkflowIcon,CircleDollarSign,Clock3,FileText,Handshake,BriefcaseBusiness,MonitorSmartphone,Grid3X3,ShieldCheck,ShieldAlert,TrendingUp,BarChart3,ClipboardCheck,Flag,Boxes}from"lucide-react";
-
+import React,{useMemo,useState}from"react";import{AnimatePresence,motion}from"framer-motion";import{ArrowLeft,ArrowRight,ArrowUpRight,CheckCircle2,XCircle,Layers3,Radar,Target,Sparkles,Workflow as WorkflowIcon,CircleDollarSign,Clock3,FileText,Handshake,BriefcaseBusiness,MonitorSmartphone,Grid3X3,ShieldCheck,ShieldAlert,TrendingUp,BarChart3,LineChart,ClipboardCheck,Flag,Boxes}from"lucide-react";
 const client="Mohammed Deif",by="Mohannad Ali",title="GO-TO-MARKET FOUNDATION PROPOSAL";
 
 const slides=[
